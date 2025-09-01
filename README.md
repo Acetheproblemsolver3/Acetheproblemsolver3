@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Acetheproblemsolver3
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently working on projects using SQL,python,R and Gen-AI
-- 💞️ I’m looking to collaborate on solving a query/problem or a project and help someone.
+- 👀 I’m a Data Scientist and I would do Data Science till the end :)
+- 🌱 I’m currently working on projects using SQL,python,R and Gen-AI and concepts related to NLP 
+- 💞️ I’m looking for a job and also to collaborate on solving a query/problem or a project and help someone in the meantime.
 - 📫 How to reach me - email - aksharanj7@gmail.com
   
     Feel free to go through my project repos and Let me know what you think.
